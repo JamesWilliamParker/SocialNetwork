@@ -17,7 +17,7 @@
   </a>
 
 <!-- -->
-  <h3 align="center">Project 2 App Name</h3>
+  <h3 align="center">SocialNetwork</h3>
 
   <p align="center">
   <!-- -->
